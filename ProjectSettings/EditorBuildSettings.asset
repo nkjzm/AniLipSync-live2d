@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AniLipSync-live2d/Examples/Scenes/AniLipSync-live2d.unity
+    guid: a4cc649fcb62b7e4b8d4259605df8f60
   m_configObjects: {}

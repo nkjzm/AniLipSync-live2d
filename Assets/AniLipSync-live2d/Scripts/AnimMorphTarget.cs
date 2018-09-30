@@ -40,12 +40,11 @@ namespace AniLipSync.Live2D
             {
                 Debug.LogError("同じGameObjectにOVRLipSyncContextBaseを継承したクラスが見つかりません。", this);
             }
-            Debug.Log("OVRLipSyncContext is: " + (context is OVRLipSyncContext));
 
             context.Smoothing = smoothAmount;
         }
 
-        void Update()
+        void LateUpdate()
         {
             if (context == null || model == null)
             {

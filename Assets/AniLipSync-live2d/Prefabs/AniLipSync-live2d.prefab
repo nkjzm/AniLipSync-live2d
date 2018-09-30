@@ -148,9 +148,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4996e477b843e4f168cdd2d56c3c8c2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curveAmplifier: 100
+  curveAmplifier: 1
   weightThreashold: 2
-  frameRate: 12
+  frameRate: 24
   model: {fileID: 0}
   visemeToShape:
   - {fileID: 11400000, guid: 577d33a228888564298083d2fb3a4aa8, type: 2}
