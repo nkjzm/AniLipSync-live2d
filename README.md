@@ -5,6 +5,11 @@ Live2Dでリミテッドアニメのようなリップシンクを実現する�
 ![](docs/sample.gif)
 
 [AniLipSync](https://github.com/XVI/AniLipSync)の実装がベースになっています。
+また、VisemeShapeClipの実装で[UniVRM](https://github.com/dwango/UniVRM)を参考にしています。
+
+## Download
+
+[AniLipSync-live2d v1.0.0](https://github.com/nkjzm/AniLipSync-live2d/releases/download/v1.0.0/AniLipSync-live2d.unitypackage)
 
 ## Environment
 - Windows 10
@@ -33,6 +38,8 @@ Live2Dでリミテッドアニメのようなリップシンクを実現する�
 ### VisemeShapeClip
 
 ![](docs/clip-setting.png)
+
+// write later
 
 # License
 
