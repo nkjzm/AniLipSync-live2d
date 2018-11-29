@@ -45,6 +45,11 @@ Please comply with license defined by each package.
 
 // write later
 
+### Reference
+
+【解説】AniLipSync-live2dをモデルに適用する手順の紹介 - YouTube  
+https://www.youtube.com/watch?v=2j2KALzretk
+
 ## License
 
 This library under [MIT License](LICENSE)
