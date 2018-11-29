@@ -13,7 +13,8 @@ The library that implement LipSync with Live2D like a limited animation.
 [AniLipSync-live2d v1.0.0](https://github.com/nkjzm/AniLipSync-live2d/releases/download/v1.0.0/AniLipSync-live2d.unitypackage)
 
 ## Environment
-- Windows 10
+
+- Windows 10 / macOS High Sierra
 - Unity 2018.2.10f1
 
 ## Requirement
