@@ -20,6 +20,8 @@ Live2Dでリミテッドアニメのようなリップシンクを実現する�
 - [OVRLipSync Version 1.28.0](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/1.28.0/)
 - [Live2d Cubism 3 SDK for Unity R9](https://live2d.github.io/#unity)
 
+Please comply with license defined by each package.
+
 ## Samples
 
 `Assets/AniLipSync-live2d/Examples/Scenes/AniLipSync-live2d.unity`
