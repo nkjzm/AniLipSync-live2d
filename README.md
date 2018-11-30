@@ -48,6 +48,9 @@ Please comply with license defined by each package.
 
 ### Reference
 
+Live2Dでアニメ調のリップシンクを実現する『AniLipSync-live2d』の使い方 - Qiita
+https://qiita.com/nkjzm/items/b0d283cf8b1f7fdcf91b
+
 【解説】AniLipSync-live2dをモデルに適用する手順の紹介 - YouTube  
 https://www.youtube.com/watch?v=2j2KALzretk
 
